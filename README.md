@@ -1,1 +1,1 @@
-# -RAG_System_for_Disease_Diagnosis
+# RAG System for Disease Diagnosis
